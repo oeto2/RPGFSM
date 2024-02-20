@@ -132,7 +132,7 @@ public partial class @PlayerInputAction: IInputActionCollection2, IDisposable
                 {
                     ""name"": ""right"",
                     ""id"": ""d8d6c477-c83e-4887-916b-effab75c36aa"",
-                    ""path"": ""<Keyboard>/delete"",
+                    ""path"": ""<Keyboard>/d"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
